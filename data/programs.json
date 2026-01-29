@@ -1,0 +1,528 @@
+[
+  {
+    "name": "الدراسات القرآنية المعاصرة",
+    "degree": "الماجستير",
+    "dept": "القراءات",
+    "years": {
+      "44.0": {
+        "All_44": {
+          "gender": "All",
+          "join_semester": "44",
+          "students": 11.0,
+          "graduates": "",
+          "course_eval": "",
+          "experience_eval": "",
+          "faculty_male": "",
+          "faculty_total": "",
+          "sections_male": "",
+          "sections_total": "",
+          "faculty_published": "",
+          "faculty_phd": "",
+          "research_count": "",
+          "citations": ""
+        },
+        "ذكر_44": {
+          "gender": "ذكر",
+          "join_semester": "44",
+          "students": 5.0,
+          "graduates": "",
+          "course_eval": "",
+          "experience_eval": "",
+          "faculty_male": "",
+          "faculty_total": "",
+          "sections_male": "",
+          "sections_total": "",
+          "faculty_published": "",
+          "faculty_phd": "",
+          "research_count": "",
+          "citations": ""
+        },
+        "All_All": {
+          "gender": "All",
+          "join_semester": "All",
+          "students": "",
+          "graduates": "",
+          "course_eval": "",
+          "experience_eval": "",
+          "faculty_male": "",
+          "faculty_total": "",
+          "sections_male": "",
+          "sections_total": "",
+          "faculty_published": 13.0,
+          "faculty_phd": "",
+          "research_count": 26.0,
+          "citations": 78.0
+        },
+        "ذكر_All": {
+          "gender": "ذكر",
+          "join_semester": "All",
+          "students": 14.0,
+          "graduates": 1.0,
+          "course_eval": "",
+          "experience_eval": "",
+          "faculty_male": "",
+          "faculty_total": "",
+          "sections_male": "",
+          "sections_total": "",
+          "faculty_published": "",
+          "faculty_phd": "",
+          "research_count": "",
+          "citations": ""
+        }
+      },
+      "45.0": {
+        "ذكر_45": {
+          "gender": "ذكر",
+          "join_semester": "45",
+          "students": 15.0,
+          "graduates": "",
+          "course_eval": "",
+          "experience_eval": "",
+          "faculty_male": "",
+          "faculty_total": "",
+          "sections_male": "",
+          "sections_total": "",
+          "faculty_published": "",
+          "faculty_phd": "",
+          "research_count": "",
+          "citations": ""
+        },
+        "All_45": {
+          "gender": "All",
+          "join_semester": "45",
+          "students": 15.0,
+          "graduates": "",
+          "course_eval": "",
+          "experience_eval": "",
+          "faculty_male": "",
+          "faculty_total": "",
+          "sections_male": "",
+          "sections_total": "",
+          "faculty_published": "",
+          "faculty_phd": "",
+          "research_count": "",
+          "citations": ""
+        },
+        "All_All": {
+          "gender": "All",
+          "join_semester": "All",
+          "students": "",
+          "graduates": "",
+          "course_eval": "",
+          "experience_eval": "",
+          "faculty_male": "",
+          "faculty_total": "",
+          "sections_male": "",
+          "sections_total": "",
+          "faculty_published": 12.0,
+          "faculty_phd": "",
+          "research_count": 26.0,
+          "citations": 65.0
+        },
+        "ذكر_All": {
+          "gender": "ذكر",
+          "join_semester": "All",
+          "students": 24.0,
+          "graduates": 1.0,
+          "course_eval": "",
+          "experience_eval": "",
+          "faculty_male": "",
+          "faculty_total": "",
+          "sections_male": "",
+          "sections_total": "",
+          "faculty_published": "",
+          "faculty_phd": "",
+          "research_count": "",
+          "citations": ""
+        }
+      },
+      "46.0": {
+        "ذكر_All": {
+          "gender": "ذكر",
+          "join_semester": "All",
+          "students": 23.0,
+          "graduates": 5.0,
+          "course_eval": "",
+          "experience_eval": "",
+          "faculty_male": "",
+          "faculty_total": "",
+          "sections_male": "",
+          "sections_total": "",
+          "faculty_published": "",
+          "faculty_phd": "",
+          "research_count": "",
+          "citations": ""
+        },
+        "All_All": {
+          "gender": "All",
+          "join_semester": "All",
+          "students": "",
+          "graduates": "",
+          "course_eval": "",
+          "experience_eval": "",
+          "faculty_male": 13.0,
+          "faculty_total": 34.0,
+          "sections_male": "",
+          "sections_total": "",
+          "faculty_published": 9.0,
+          "faculty_phd": 29.0,
+          "research_count": 16.0,
+          "citations": 24.0
+        },
+        "All_46": {
+          "gender": "All",
+          "join_semester": "46",
+          "students": 9.0,
+          "graduates": "",
+          "course_eval": "",
+          "experience_eval": "",
+          "faculty_male": "",
+          "faculty_total": "",
+          "sections_male": "",
+          "sections_total": "",
+          "faculty_published": "",
+          "faculty_phd": "",
+          "research_count": "",
+          "citations": ""
+        },
+        "All_44": {
+          "gender": "All",
+          "join_semester": "44",
+          "students": 16.0,
+          "graduates": 0.0,
+          "course_eval": "",
+          "experience_eval": "",
+          "faculty_male": "",
+          "faculty_total": "",
+          "sections_male": "",
+          "sections_total": "",
+          "faculty_published": "",
+          "faculty_phd": "",
+          "research_count": "",
+          "citations": ""
+        },
+        "ذكر_44": {
+          "gender": "ذكر",
+          "join_semester": "44",
+          "students": 10.0,
+          "graduates": 0.0,
+          "course_eval": "",
+          "experience_eval": "",
+          "faculty_male": "",
+          "faculty_total": "",
+          "sections_male": "",
+          "sections_total": "",
+          "faculty_published": "",
+          "faculty_phd": "",
+          "research_count": "",
+          "citations": ""
+        }
+      }
+    }
+  },
+  {
+    "name": "بكالوريوس القراءات",
+    "degree": "بكالوريوس",
+    "dept": "القراءات",
+    "years": {
+      "44.0": {
+        "All_All": {
+          "gender": "All",
+          "join_semester": "All",
+          "students": "",
+          "graduates": "",
+          "course_eval": "",
+          "experience_eval": "",
+          "faculty_male": "",
+          "faculty_total": "",
+          "sections_male": "",
+          "sections_total": "",
+          "faculty_published": 13.0,
+          "faculty_phd": "",
+          "research_count": 26.0,
+          "citations": 78.0
+        }
+      },
+      "45.0": {
+        "All_All": {
+          "gender": "All",
+          "join_semester": "All",
+          "students": "",
+          "graduates": "",
+          "course_eval": "",
+          "experience_eval": "",
+          "faculty_male": "",
+          "faculty_total": "",
+          "sections_male": "",
+          "sections_total": "",
+          "faculty_published": 12.0,
+          "faculty_phd": "",
+          "research_count": 26.0,
+          "citations": 65.0
+        }
+      },
+      "46.0": {
+        "All_All": {
+          "gender": "All",
+          "join_semester": "All",
+          "students": "",
+          "graduates": "",
+          "course_eval": "",
+          "experience_eval": "",
+          "faculty_male": 13.0,
+          "faculty_total": 34.0,
+          "sections_male": "",
+          "sections_total": "",
+          "faculty_published": 9.0,
+          "faculty_phd": 29.0,
+          "research_count": 16.0,
+          "citations": 24.0
+        }
+      }
+    }
+  },
+  {
+    "name": "بكالوريوس القرآن وعلومه",
+    "degree": "بكالوريوس",
+    "dept": "القراءات",
+    "years": {
+      "44.0": {
+        "All_All": {
+          "gender": "All",
+          "join_semester": "All",
+          "students": "",
+          "graduates": "",
+          "course_eval": "",
+          "experience_eval": "",
+          "faculty_male": "",
+          "faculty_total": "",
+          "sections_male": "",
+          "sections_total": "",
+          "faculty_published": 13.0,
+          "faculty_phd": "",
+          "research_count": 26.0,
+          "citations": 78.0
+        }
+      },
+      "45.0": {
+        "All_All": {
+          "gender": "All",
+          "join_semester": "All",
+          "students": "",
+          "graduates": "",
+          "course_eval": "",
+          "experience_eval": "",
+          "faculty_male": "",
+          "faculty_total": "",
+          "sections_male": "",
+          "sections_total": "",
+          "faculty_published": 12.0,
+          "faculty_phd": "",
+          "research_count": 26.0,
+          "citations": 65.0
+        }
+      },
+      "46.0": {
+        "All_All": {
+          "gender": "All",
+          "join_semester": "All",
+          "students": "",
+          "graduates": "",
+          "course_eval": "",
+          "experience_eval": "",
+          "faculty_male": 13.0,
+          "faculty_total": 34.0,
+          "sections_male": "",
+          "sections_total": "",
+          "faculty_published": 9.0,
+          "faculty_phd": 29.0,
+          "research_count": 16.0,
+          "citations": 24.0
+        }
+      }
+    }
+  },
+  {
+    "name": "ماجستير القراءات",
+    "degree": "الماجستير",
+    "dept": "القراءات",
+    "years": {
+      "44.0": {
+        "All_All": {
+          "gender": "All",
+          "join_semester": "All",
+          "students": "",
+          "graduates": "",
+          "course_eval": "",
+          "experience_eval": "",
+          "faculty_male": "",
+          "faculty_total": "",
+          "sections_male": "",
+          "sections_total": "",
+          "faculty_published": 13.0,
+          "faculty_phd": "",
+          "research_count": 26.0,
+          "citations": 78.0
+        }
+      },
+      "45.0": {
+        "All_All": {
+          "gender": "All",
+          "join_semester": "All",
+          "students": "",
+          "graduates": "",
+          "course_eval": "",
+          "experience_eval": "",
+          "faculty_male": "",
+          "faculty_total": "",
+          "sections_male": "",
+          "sections_total": "",
+          "faculty_published": 12.0,
+          "faculty_phd": "",
+          "research_count": 26.0,
+          "citations": 65.0
+        }
+      },
+      "46.0": {
+        "All_All": {
+          "gender": "All",
+          "join_semester": "All",
+          "students": "",
+          "graduates": "",
+          "course_eval": "",
+          "experience_eval": "",
+          "faculty_male": 13.0,
+          "faculty_total": 34.0,
+          "sections_male": "",
+          "sections_total": "",
+          "faculty_published": 9.0,
+          "faculty_phd": 29.0,
+          "research_count": 16.0,
+          "citations": 24.0
+        }
+      }
+    }
+  },
+  {
+    "name": "دكتوراه القراءات",
+    "degree": "دكتوراه",
+    "dept": "القراءات",
+    "years": {
+      "44.0": {
+        "All_All": {
+          "gender": "All",
+          "join_semester": "All",
+          "students": "",
+          "graduates": "",
+          "course_eval": "",
+          "experience_eval": "",
+          "faculty_male": "",
+          "faculty_total": "",
+          "sections_male": "",
+          "sections_total": "",
+          "faculty_published": 13.0,
+          "faculty_phd": "",
+          "research_count": 26.0,
+          "citations": 78.0
+        }
+      },
+      "45.0": {
+        "All_All": {
+          "gender": "All",
+          "join_semester": "All",
+          "students": "",
+          "graduates": "",
+          "course_eval": "",
+          "experience_eval": "",
+          "faculty_male": "",
+          "faculty_total": "",
+          "sections_male": "",
+          "sections_total": "",
+          "faculty_published": 12.0,
+          "faculty_phd": "",
+          "research_count": 26.0,
+          "citations": 65.0
+        }
+      },
+      "46.0": {
+        "All_All": {
+          "gender": "All",
+          "join_semester": "All",
+          "students": "",
+          "graduates": "",
+          "course_eval": "",
+          "experience_eval": "",
+          "faculty_male": 13.0,
+          "faculty_total": 34.0,
+          "sections_male": "",
+          "sections_total": "",
+          "faculty_published": 9.0,
+          "faculty_phd": 29.0,
+          "research_count": 16.0,
+          "citations": 24.0
+        }
+      }
+    }
+  },
+  {
+    "name": "دكتوراه الدراسات القرآنية",
+    "degree": "دكتوراه",
+    "dept": "القراءات",
+    "years": {
+      "44.0": {
+        "All_All": {
+          "gender": "All",
+          "join_semester": "All",
+          "students": "",
+          "graduates": "",
+          "course_eval": "",
+          "experience_eval": "",
+          "faculty_male": "",
+          "faculty_total": "",
+          "sections_male": "",
+          "sections_total": "",
+          "faculty_published": 13.0,
+          "faculty_phd": "",
+          "research_count": 26.0,
+          "citations": 78.0
+        }
+      },
+      "45.0": {
+        "All_All": {
+          "gender": "All",
+          "join_semester": "All",
+          "students": "",
+          "graduates": "",
+          "course_eval": "",
+          "experience_eval": "",
+          "faculty_male": "",
+          "faculty_total": "",
+          "sections_male": "",
+          "sections_total": "",
+          "faculty_published": 12.0,
+          "faculty_phd": "",
+          "research_count": 26.0,
+          "citations": 65.0
+        }
+      },
+      "46.0": {
+        "All_All": {
+          "gender": "All",
+          "join_semester": "All",
+          "students": "",
+          "graduates": "",
+          "course_eval": "",
+          "experience_eval": "",
+          "faculty_male": 13.0,
+          "faculty_total": 34.0,
+          "sections_male": "",
+          "sections_total": "",
+          "faculty_published": 9.0,
+          "faculty_phd": 29.0,
+          "research_count": 16.0,
+          "citations": 24.0
+        }
+      }
+    }
+  }
+]

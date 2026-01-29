@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>مؤشرات الأداء | كلية الشريعة والأنظمة</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Tajawal:wght@300;400;500;700;800&family=Readex+Pro:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <!-- الخلفية المتحركة -->
+    <div class="bg-pattern"></div>
+    
+    <!-- الهيدر -->
+    <header class="header">
+        <div class="header-content">
+            <div class="logo">
+                <div class="logo-icon">
+                    <svg viewBox="0 0 60 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <circle cx="30" cy="30" r="28" stroke="currentColor" stroke-width="2"/>
+                        <path d="M30 10 L30 50 M15 25 L45 25 M15 35 L45 35" stroke="currentColor" stroke-width="2"/>
+                        <circle cx="30" cy="30" r="8" fill="currentColor"/>
+                    </svg>
+                </div>
+                <div class="logo-text">
+                    <h1>مؤشرات الأداء</h1>
+                    <p>كلية الشريعة والأنظمة - جامعة الطائف</p>
+                </div>
+            </div>
+            <div class="header-decoration"></div>
+        </div>
+    </header>
+
+    <!-- القسم الرئيسي -->
+    <main class="main-content">
+        <!-- بطاقة الاختيار -->
+        <section class="selection-card">
+            <div class="card-header">
+                <span class="card-icon">📊</span>
+                <h2>اختر البرنامج والسنة</h2>
+            </div>
+            <div class="selection-grid">
+                <div class="select-group">
+                    <label for="program-select">البرنامج الأكاديمي</label>
+                    <div class="select-wrapper">
+                        <select id="program-select">
+                            <option value="">-- اختر البرنامج --</option>
+                        </select>
+                        <span class="select-arrow">▼</span>
+                    </div>
+                </div>
+                <div class="select-group">
+                    <label for="year-select">السنة الدراسية</label>
+                    <div class="select-wrapper">
+                        <select id="year-select" disabled>
+                            <option value="">-- اختر السنة --</option>
+                        </select>
+                        <span class="select-arrow">▼</span>
+                    </div>
+                </div>
+            </div>
+            <button id="show-btn" class="show-btn" disabled>
+                <span>عرض المؤشرات</span>
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <path d="M5 12h14M12 5l7 7-7 7"/>
+                </svg>
+            </button>
+        </section>
+
+        <!-- معلومات البرنامج -->
+        <section id="program-info" class="program-info hidden">
+            <div class="info-header">
+                <div class="info-badge" id="degree-badge">بكالوريوس</div>
+                <h3 id="program-name">اسم البرنامج</h3>
+                <p id="program-year">السنة الدراسية: 46</p>
+            </div>
+        </section>
+
+        <!-- شبكة المؤشرات -->
+        <section id="indicators-section" class="indicators-section hidden">
+            <h2 class="section-title">
+                <span class="title-icon">📈</span>
+                المؤشرات الرئيسية
+            </h2>
+            
+            <div class="indicators-grid" id="indicators-grid">
+                <!-- سيتم ملؤها بـ JavaScript -->
+            </div>
+        </section>
+
+        <!-- البيانات الخام -->
+        <section id="raw-data-section" class="raw-data-section hidden">
+            <h2 class="section-title">
+                <span class="title-icon">📋</span>
+                البيانات التفصيلية
+            </h2>
+            
+            <div class="data-grid" id="data-grid">
+                <!-- سيتم ملؤها بـ JavaScript -->
+            </div>
+        </section>
+    </main>
+
+    <!-- الفوتر -->
+    <footer class="footer">
+        <div class="footer-content">
+            <p>© 2024 كلية الشريعة والأنظمة - جامعة الطائف</p>
+            <p class="footer-note">نظام مؤشرات الأداء الأكاديمي</p>
+        </div>
+    </footer>
+
+    <script src="js/app.js"></script>
+</body>
+</html>
